@@ -52,7 +52,7 @@
 
 ## 資料流程圖
 
-![image](https://github.com/user-attachments/assets/74c62fb5-151d-4552-8cae-b7c883481fb8)
+![資料流程圖]https://imgur.com/mwfiLrz
 
 
 

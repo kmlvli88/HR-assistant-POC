@@ -51,12 +51,14 @@
 └── README.md
 
 ## 資料流程圖
-![image](https://github.com/user-attachments/assets/c7f66cf2-7254-4fa7-97c2-deb75010444f)
+![image](https://github.com/user-attachments/assets/253baa76-7753-4373-bf03-6f383ba800ce)
+
 
 
 
 ## 驗證及果
-![image](https://github.com/user-attachments/assets/560934cc-fbc1-49a2-8eda-d4d6fe8ba4bb)
+![image](https://github.com/user-attachments/assets/589b2610-49c6-4bf3-a399-a8356024b89e)
+
 
 ## 價值與效益
 •	減少 HR  重工（主管可直接查詢）

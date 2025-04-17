@@ -52,7 +52,7 @@
 
 ## 資料流程圖
 
-![資料流程圖]https://imgur.com/mwfiLrz
+![資料流程圖](https://i.imgur.com/mwfiLrz.png)
 
 
 

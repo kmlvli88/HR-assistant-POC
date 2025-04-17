@@ -51,16 +51,15 @@
 └── README.md
 
 ## 資料流程圖
-
-
-![圖示](架構.png)
-
+請參考根目錄，檔名[架構].png檔
 
 
 
 
-## 驗證及果
-![image](https://github.com/user-attachments/assets/589b2610-49c6-4bf3-a399-a8356024b89e)
+
+
+## 驗證結果
+請參考根目錄，檔名[demo].png檔
 
 
 ## 價值與效益
@@ -69,9 +68,13 @@
 •	整合多來源資料（PDF、員工系統）
 •	完全私有部署（Ollama 本地推理）
 
+
+
+
+
 ## 後續建議與延伸方向
 擴充功能:增加API接口，實現AI AGENT(例如:使用LangChain框架達到自動化請假流程)
 MCP 協議:為 AI 模型提供了一個標準化的方式來連接不同的數據源和工具。
-![image](https://github.com/user-attachments/assets/7bb0a0c0-dfb3-44c6-a880-0fc3f0ec138b)
+請參考根目錄，檔名[mcp].png檔
 
 資料來源 : https://modelcontextprotocol.io/introduction

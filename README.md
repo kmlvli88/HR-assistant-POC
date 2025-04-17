@@ -49,7 +49,9 @@
 │   └── employees.json    ←員工資訊
 ├── requirements.txt      
 └── README.md
-
+└──架構.png               ←本專案資料流架構     
+└──demo.png               ←驗證結果
+└──mcp.png                ←mcp架構
 ## 資料流程圖
 請參考根目錄，檔名[架構].png檔
 
